@@ -1,4 +1,4 @@
-# SynthesatorPlugin
+# SynthesizerPlugin
 This JUCE project was created only for discovering and testing basic JUCE and Maximillian library functions. 
 
 To properly work of this project you should download JUCE 6.0.4 to your machine by path C:\JUCE.  
